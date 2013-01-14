@@ -1,5 +1,6 @@
-setopt correct_all
+setopt nocorrect_all
 
+alias git='nocorrect git'
 alias man='nocorrect man'
 alias mv='nocorrect mv'
 alias mysql='nocorrect mysql'
