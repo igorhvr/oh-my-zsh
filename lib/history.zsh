@@ -1,7 +1,7 @@
 ## Command history configuration
 HISTFILE=$HOME/.zsh_history
-HISTSIZE=1000000
-SAVEHIST=1000000
+HISTSIZE=2000000
+SAVEHIST=2000000
 
 setopt append_history
 setopt extended_history
